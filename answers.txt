@@ -1,0 +1,11 @@
+1. There are total of 6 branches in this repository. The default branch "master", stale
+brances: "index", "bower", "package", "landing-ru", "landing" and the branch that I created:
+"answers"
+2. Branch "index" has been merged with the master branch
+3. This project has a total of 8 commits in the master branch, index has 2 commits, bower has 5 commits,
+   5 commits in package, landing-ru has 6 commits and landing has 8 commits
+4. The package branch has the following commits that differ from the master branch
+   "Merge branch 'landing-ru' into landing
+   "Added landing content"
+   "Added russian landing"
+   "Added landing"
